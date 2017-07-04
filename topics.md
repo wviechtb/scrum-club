@@ -14,3 +14,4 @@ Here, we keep track of topic ideas for future meetings.
 * [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
 * project organization
+* presentation software/tools (alternatives to PowerPoint)
