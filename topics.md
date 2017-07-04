@@ -11,6 +11,6 @@ Here, we keep track of topic ideas for future meetings.
 * [Jupyter](http://jupyter.org/)
 * multicore/parallel processing
 * [Shiny](https://shiny.rstudio.com/)
-* [LaTex](https://www.latex-project.org/)
+* [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
 * project organization
