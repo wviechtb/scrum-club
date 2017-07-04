@@ -13,3 +13,4 @@ Here, we keep track of topic ideas for future meetings.
 * [Shiny](https://shiny.rstudio.com/)
 * [LaTex](https://www.latex-project.org/)
 * Linux/Unix
+* project organization
