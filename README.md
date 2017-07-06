@@ -14,7 +14,7 @@ Meetings take place every two weeks on Wednesdays from 17:30 to 19:00 (we will r
 
 ### Not Just an R User Group
 
-We debated whether to start an [R User Group](http://blog.revolutionanalytics.com/local-r-groups.html) in Maastricht (there are already several such groups in the Netherlands, but none in the south). However, we decided to make the purpose of the club more encompassing, leaving the possibility (and goal) to explore other tools and software. However, R is, and will remain, a major focus of the club.
+We debated whether to start an [R User Group](http://blog.revolutionanalytics.com/local-r-groups.html) in Maastricht (there are already several such groups in the Netherlands, but none in the south). However, we decided to make the purpose of the club more encompassing, leaving the possibility (and goal) to explore other tools/software and topics. However, R is, and will remain, a major focus of the club.
 
 ### A User-Driven Club
 
@@ -22,8 +22,8 @@ To get things going, we will devote a number of meetings to teaching R. As membe
 
 ### Meeting Structure
 
-In general, 45 minutes of a meeting will be devoted to more direct teaching and/or presentations (at the beginning, probably even a bit more time). The remaining 45 minutes are 'free hacking time' where (a) newcomers can examine the materials from previous meetings on their own and, as needed, with the support from more experienced members, (b) more experienced members can explore other topics, and (c) members can just hang out with like-minded individuals.
+In general, 45 minutes of a meeting will be devoted to more direct teaching and/or presentations (at the beginning, probably even a bit more time). The remaining 45 minutes are 'free hacking time' where (a) newcomers can examine the materials from previous meetings on their own and, as needed, with the support from more experienced members, (b) more experienced members can explore other topics, and (c) members can just mingle with like-minded individuals.
 
 ### Open Source
 
-All materials (e.g., code, lecture slides) will be openly available via this GitHub repository.
+All materials (e.g., code, lecture slides) will be openly/freely available via this GitHub repository. That way, members (and those interested in joining the club) can always check and stay up-to-date with what has been covered in previous meetings.
