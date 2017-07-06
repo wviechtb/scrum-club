@@ -1,6 +1,6 @@
 ## Topic Ideas
 
-Here, we keep track of topic ideas for future meetings.
+Here, we keep track of potential topic ideas for future meetings. Suggestions welcome!
 
 * version control and especially [Git](https://git-scm.com/) + [GitHub](https://github.com/)
 * reference managers/tools (e.g., Endnote, Zotero, Mendeley)
