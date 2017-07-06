@@ -15,3 +15,5 @@ Here, we keep track of topic ideas for future meetings.
 * Linux/Unix
 * project organization
 * presentation software/tools (alternatives to PowerPoint)
+* podcasts related to science/stats/academia/research/etc
+* social media for communicating about science/stats/academia/research/etc
