@@ -24,6 +24,6 @@ To get things going, we will devote a number of meetings to teaching R. As membe
 
 In general, 45 minutes of a meeting will be devoted to more direct teaching and/or presentations (at the beginning, probably even a bit more time). The remaining 45 minutes are 'free hacking time' where (a) newcomers can examine the materials from previous meetings on their own and, as needed, with the support from more experienced members, (b) more experienced members can explore other topics, and (c) members can just mingle with like-minded individuals.
 
-### Open Source
+### Open Access
 
 All materials (e.g., code, lecture slides) will be openly/freely available via this GitHub repository. That way, members (and those interested in joining the club) can always check and stay up-to-date with what has been covered in previous meetings.
