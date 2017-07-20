@@ -11,6 +11,7 @@ Here, we keep track of potential topic ideas for future meetings. Suggestions we
 * [Octave](https://www.gnu.org/software/octave/)
 * [Jupyter](http://jupyter.org/)
 * multicore/parallel processing
+* cloud computing
 * [Shiny](https://shiny.rstudio.com/)
 * [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
