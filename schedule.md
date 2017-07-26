@@ -1,3 +1,7 @@
+[Home](README.md) | **[Schedule](schedule.md)** | [Topics](topics.md)
+
+---
+
 ## Schedule
 
 Here is the schedule for upcoming and past meetings. Dates are given as year/month/day. At the moment, all meetings take place on Wednesdays at 17:30.
