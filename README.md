@@ -1,3 +1,7 @@
+**[Home](README.md) | [Schedule](schedule.md) | [Topics](topics.md)**
+
+---
+
 ## Welcome
 
 This is the GitHub repository for the (Tools/Software for) **S**cientific **C**omputing and **R**esearch @ **UM** Club (SCRUM Club).
