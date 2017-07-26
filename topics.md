@@ -1,3 +1,7 @@
+[Home](README.md) | [Schedule](schedule.md) | **[Topics](topics.md)**
+
+---
+
 ## Topic Ideas
 
 Here, we keep track of potential topic ideas for future meetings. Suggestions welcome!
