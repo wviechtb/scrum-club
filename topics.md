@@ -6,16 +6,16 @@
 
 Here, we keep track of potential topic ideas for future meetings. Suggestions welcome!
 
-* version control and especially [Git](https://git-scm.com/) + [GitHub](https://github.com/)
-* tools and websites for open science and reproducible research
-* reference managers/tools (e.g., Endnote, Zotero, Mendeley)
+* [version control](https://en.wikipedia.org/wiki/Version_control) and especially [Git](https://git-scm.com/) + [GitHub](https://github.com/)
+* tools and websites for [open science](https://en.wikipedia.org/wiki/Open_science) and [reproducible research](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research)
+* reference managers/tools (e.g., [Endnote](http://endnote.com/), [Zotero](https://www.zotero.org/), [Mendeley](https://www.mendeley.com/))
 * [markdown](https://en.wikipedia.org/wiki/Markdown) / [Rmarkdown](http://rmarkdown.rstudio.com/)
 * [Julia](https://julialang.org/)
-* Python and esp. [SciPy](https://www.scipy.org/)
+* [Python](https://www.python.org/) and esp. [SciPy](https://www.scipy.org/)
 * [Octave](https://www.gnu.org/software/octave/)
 * [Jupyter](http://jupyter.org/)
-* multicore/parallel processing
-* cloud computing
+* [multicore/parallel processing](https://en.wikipedia.org/wiki/Parallel_computing)
+* [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 * [Shiny](https://shiny.rstudio.com/)
 * [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
