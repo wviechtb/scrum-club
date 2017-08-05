@@ -4,7 +4,7 @@
 
 ## Schedule
 
-Here is the schedule for upcoming and past meetings. Dates are given as year/month/day. At the moment, all meetings take place on Wednesdays at 17:30.
+Here is the schedule for upcoming and past meetings. Dates are given as year/month/day. At the moment, all meetings take place on Wednesdays from 16:30 to 18:00.
 
 ### Upcoming Meetings
 
