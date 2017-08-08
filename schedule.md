@@ -8,14 +8,14 @@ Here is the schedule for upcoming and past meetings. Dates are given as year/mon
 
 ### Upcoming Meetings
 
-Date | Topic
----- | -----
-2017/10/04 | Introduction / Starting with R
-2017/10/18 | Continue with R
-2017/11/01 | Continue with R
-2017/11/15 | Continue with R
-2017/11/29 | To be determined
-2017/12/13 | To be determined
+Date | Topic | Location
+---- | ----- | --------
+2017/10/04 | Introduction / Starting with R | TBD
+2017/10/18 | Continue with R | TBD
+2017/11/01 | Continue with R | TBD
+2017/11/15 | Continue with R | TBD
+2017/11/29 | To be determined | TBD
+2017/12/13 | To be determined | TBD
 
 ### Past Meetings
 
