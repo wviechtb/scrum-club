@@ -19,7 +19,7 @@ Here, we keep track of potential topic ideas for future meetings. Suggestions we
 * [Shiny](https://shiny.rstudio.com/)
 * [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
-* project organization
+* project/file organization (e.g., [How to name files](https://speakerdeck.com/jennybc/how-to-name-files))
 * presentation software/tools (i.e., alternatives to PowerPoint)
 * podcasts related to science/stats/academia/research/etc
 * social media for communicating about science/stats/academia/research/etc.
