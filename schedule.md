@@ -8,6 +8,8 @@ Here is the schedule for upcoming and past meetings. Dates are given as year/mon
 
 ### Upcoming Meetings
 
+Note: The meeting on 2017/10/04 has been canceled as it has not yet been possible to reserve a suitable room for the meetings.
+
 Date | Topic | Location
 ---- | ----- | --------
 2017/10/18 | Introduction / Starting with R | TBD
