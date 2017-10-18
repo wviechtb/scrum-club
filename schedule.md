@@ -13,12 +13,12 @@ Date | Topic | Location
 2017/11/15 | Introduction / Starting with R | H1.319 (Paarse Zaal) at UNS50
 2017/11/29 | Continue with R | H1.319 (Paarse Zaal) at UNS50
 2017/12/13 | Continue with R | H1.319 (Paarse Zaal) at UNS50
-2018/01/17 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
-2018/01/31 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
-2018/02/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
-2018/02/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
-2018/03/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
-2018/03/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/01/17 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018/01/31 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018/02/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018/02/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018/03/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018/03/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 
 (TBD = to be determinded)
 
