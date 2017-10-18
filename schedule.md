@@ -8,13 +8,17 @@ Here is the schedule for upcoming and past meetings. Dates are given as year/mon
 
 ### Upcoming Meetings
 
-Note: We are having some difficulties arranging a proper room for this. Therefore, the start of the club has to be pushed back a bit. Hopefully we can get this issue sorted out soon and we can get started on Nov 15th. But please keep an eye on this website for further information.
-
 Date | Topic | Location
 ---- | ----- | --------
-2017/11/15 | Introduction / Starting with R | TBD
-2017/11/29 | Continue with R | TBD
-2017/12/13 | Continue with R | TBD
+2017/11/15 | Introduction / Starting with R | H1.319 (Paarse Zaal) at UNS50
+2017/11/29 | Continue with R | H1.319 (Paarse Zaal) at UNS50
+2017/12/13 | Continue with R | H1.319 (Paarse Zaal) at UNS50
+2018/01/17 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/01/31 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/02/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/02/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/03/14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
+2018/03/28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d0_d26)
 
 (TBD = to be determinded)
 
