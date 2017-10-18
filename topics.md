@@ -4,7 +4,7 @@
 
 ## Topic Ideas
 
-Here, we keep track of potential topic ideas for future meetings. Suggestions welcome!
+Here, we keep track of potential topic ideas for future meetings. **Suggestions welcome!**
 
 * [version control](https://en.wikipedia.org/wiki/Version_control) and especially [Git](https://git-scm.com/) + [GitHub](https://github.com/)
 * tools and websites for [open science](https://en.wikipedia.org/wiki/Open_science) and [reproducible research](https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research)
