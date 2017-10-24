@@ -12,7 +12,7 @@ The purpose of the SCRUM club is to explore and learn about software/tools for s
 
 The club is open to students at all levels, post-docs, staff, faculty members, researchers, and essentially anybody interested in learning more about software/tools for scientific computing and research. You do not have to be affiliated with Maastricht University to attend -- the '@ UM' just refers to the fact that this is where the club is located.
 
-Meetings take place every two weeks on Wednesdays from 16:30 to 18:00 (we will reconsider the meeting day, time, and frequency occasionally). The schedule and topics for upcoming and past meetings can be found [here](schedule.md). The location remains to be determined.
+Meetings take place every two weeks on Wednesdays from 16:30 to 18:00 (we will reconsider the meeting day, time, and frequency occasionally). The schedule and topics for upcoming and past meetings can be found [here](schedule.md).
 
 ## Notes & Philosophy
 
