@@ -4,7 +4,7 @@
 
 ## Welcome
 
-This is the GitHub repository for the (Tools/Software for) **S**cientific **C**omputing and **R**esearch @ **UM** Club (SCRUM Club).
+This is the website and GitHub repository for the (Tools/Software for) **S**cientific **C**omputing and **R**esearch @ **UM** Club (SCRUM Club).
 
 ## Description
 
