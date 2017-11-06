@@ -9,3 +9,4 @@ Below is a list of members/participants of the club. Note: Listing your name her
 Name | Position/Role | Interests
 ---- | ------------- | ---------
 Wolfgang Viechtbauer | Associate Professor of Methodology and Statistics at Maastricht University | statistical programming (esp. R), high-performance computing, open-source software, Linux, efficient/organized workflows
+Ozan Çınar | PhD student at Maastricht University | computational statistics, bioinformatics, genetics
