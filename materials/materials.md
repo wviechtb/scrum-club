@@ -4,7 +4,7 @@
 
 ## Meeting Materials
 
-All materials for the upcoming and previous meetings are collected here. Note that materials for upcoming meetings may change up until the meeting actually takes place.
+The materials for the upcoming meeting and all previous meetings are collected here. Note that materials for the upcoming meeting may change up until the meeting actually takes place.
 
 Date | Topic | Folder
 ---- | ----- | ---------
