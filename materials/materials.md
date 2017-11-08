@@ -8,4 +8,4 @@ All materials for the upcoming and previous meetings are collected here. Note th
 
 Date | Topic | Link(s)
 ---- | ----- | ---------
-2017/15/11 | Introduction to R | [materials](/materials/2017_11_15)
+2017/15/11 | Introduction to R | [materials](https://github.com/wviechtb/scrum-club/tree/master/materials/2017_11_15)
