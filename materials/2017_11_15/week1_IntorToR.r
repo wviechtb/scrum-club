@@ -371,7 +371,7 @@ genders2
 
 ### Reading data sets into the environment
 
-dat <- read.table("rec1_data.txt", header = TRUE) # header is an argument
+dat <- read.table("toyData.txt", header = TRUE) # header is an argument
 dat
 ?read.table # You can see the other arguments of the function from its help page.
 # You will need to set the arguments to read the data correctly. For example, if
