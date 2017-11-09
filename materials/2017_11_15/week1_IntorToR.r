@@ -67,8 +67,6 @@ q(save="no")
 ###    Set "Save Workspace to .RData on exit" to Never
 ###    Unselect "Always save history (even when not using .Rdata)"
 
-### open up new script file (Ctrl+Shift+n / Command+Shift+n)
-
 ### elements (panes) of the RStudio window:
 ### top left:     Script Editor
 ### bottom left:  Console
@@ -78,6 +76,8 @@ q(save="no")
 ### use R interactively by typing into the Console:
 a <- 12
 
+
+### open up new script file (Ctrl+Shift+n / Command+Shift+n)
 ### let's start working with a script file
 ### go to the script file editor and type in commands
 ### From File tab choose New File/R Script, or open a script with Open File
@@ -140,9 +140,9 @@ int <- 5L
 class(int)
 int2 <- 5.4L
 # warnings are a special kind of errors. R continues to work, unlike errors;
-# however, it informs you about that something's wrong.
-class(int2) # Since it contains a decimal, "int2" is autmatically turned into a numerical
+# however, it informs you about that something's wrong
 int2
+class(int2) # since it contains a decimal, "int2" is automatically turned into a numerical
 
 
 # complex values
@@ -152,12 +152,13 @@ class(comp)
 
 
 # logicals are binary variables with TRUE/FALSE values
-logic <- c(TRUE, FALSE, FALSE)
+logic <- c(TRUE, FALSE, FALSE)  # c() is concatenating which combines several objects in a single object, a vector
 logic
 
 
 ### Comparisons
-x <- c(2, 4, 6, 3, 5)
+x <- c(2, 4, 6, 3, 5) 
+x
 x > 3
 x >= 3
 x < 3
@@ -183,9 +184,6 @@ num <- c(3, 5, 5.6, 8)
 num <- c(3,5,5.6,8)
 class(num)
 
-mean(num)
-boxplot(num)
-
 
 ### nesting of commands
 mx <- mean(num)
@@ -199,8 +197,9 @@ sqrt(mean(num))
 ### now complete with '(num)' so we get
 boxplot(num)
 
-### close plot
+# close plot
 dev.off()
+
 
 ### Coercions
 c1 <- c(1, "a") # trying to put objects from different classes into a vector
@@ -220,8 +219,9 @@ class(c4)
 c4
 
 c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
-class(c1)
 c1
+class(c1)
+
 
 c2 <- as.numeric(c1)	# transforming the class of c1 into numeric
 class(c2)
@@ -244,6 +244,7 @@ as.numeric(char)
 
 num <- c(5.34, 2.67, 1.98)
 as.integer(num)
+
 
 ### Environment
 ls()			      # lists the objects and functions already defined in the environment (workspace)
@@ -371,7 +372,7 @@ genders2
 
 ### Reading data sets into the environment
 
-dat <- read.table("toyData.txt", header = TRUE) # header is an argument
+dat <- read.table("rec1_data.txt", header = TRUE) # header is an argument
 dat
 ?read.table # You can see the other arguments of the function from its help page.
 # You will need to set the arguments to read the data correctly. For example, if
