@@ -9,7 +9,7 @@ Here is the schedule for upcoming and past meetings. Dates are given as year/mon
 ### Upcoming Meetings
 
 Date | Topic | Location
----- | ----- | --------
+:--- | :---- | :-------
 2017/11/15 | Introduction / Starting with R | H1.319 (Paarse Zaal) at UNS50
 2017/11/29 | Continue with R | H1.319 (Paarse Zaal) at UNS50
 2017/12/13 | Continue with R | H1.319 (Paarse Zaal) at UNS50
