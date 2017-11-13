@@ -25,14 +25,6 @@ y
 print(x)
 
 
-# a semicolon can be used to enter multiple commands in a single line
-a <- 4; b <- 6; c <- a + b
-a
-b
-c
-# but, be careful about the readability of your codes
-
-
 ### Arithmetic operations
 # R uses the common mathematical rules
 0 * (40 + 2)
@@ -61,7 +53,6 @@ q(save="no")
 
 ############################################################################
 ### open RStudio
-
 
 ### elements (panes) of the RStudio window:
 ### top left:     Script Editor
@@ -227,19 +218,15 @@ num[1:5]	  # subsets from the first and to the fifth values in the object num
 num[c(1, 3)]# subsets the first and the third values in the object num
 num[-1]	    # takes all the values except for the first value from the object num
 
-mat1 <- matrix(c(1:8), nrow = 2) # creating a matrix including values from 1 to 8, with 2 rows
-mat1
-mat2 <- matrix(c(1:8), nrow = 2, byrow = TRUE)    # this time the values are written row by row
-mat2
+mat <- matrix(c(1:8), nrow = 2) # creating a matrix including values from 1 to 8, with 2 rows
+mat
 # like vectors, matrices can not hold objects from different classes
-class(mat1)
+class(mat)
 
 
-mat1
-mat1[1, ]	# subsetting only the first row of mat
-mat1[, 2]	# subsetting the second column of mat
-mat1[1, 2]	
-mat1[-2, ]
+mat[1, ]	# subsetting only the first row of mat
+mat[, 2]	# subsetting the second column of mat
+mat[1, 2]	
 
 
 ### Data Frames
