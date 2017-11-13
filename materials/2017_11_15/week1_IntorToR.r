@@ -11,7 +11,7 @@
   5
 
 
-# '<-' and '=' corresponds to equality. They assign values to objects.
+# '<-' and '=' corresponds to assignment. They assign values to objects.
 x <- 3  # creates a new object named as "x", and assigns the value of 3 to "x".
 y = 5
 
@@ -30,6 +30,7 @@ a <- 4; b <- 6; c <- a + b
 a
 b
 c
+# but, be careful about the readability of your codes
 
 
 ### Arithmetic operations
@@ -114,8 +115,8 @@ plot(x, y)      # results in an error
 
 
 ### Classes of the objects
-### there are five basic classes for the objects: 
-### "character", "numerical", "integer", "complex", "logical"
+### some basic classes for the objects: 
+### "character", "numerical", "integer", "logical"
 ### we can see the classes of the objects with "class()" function
 name <- "Doctor"  # we need quotation marks to identify an object as a character
 name
@@ -145,15 +146,10 @@ int2
 class(int2) # since it contains a decimal, "int2" is automatically turned into a numerical
 
 
-# complex values
-comp <- 3+2i
-comp
-class(comp)
-
-
 # logicals are binary variables with TRUE/FALSE values
 logic <- c(TRUE, FALSE, FALSE)  # c() is concatenating which combines several objects in a single object, a vector
 logic
+class(logic)
 
 
 ### Comparisons
@@ -172,30 +168,24 @@ x > 3 & x < 6
 x < 3 | x > 5
 
 
-# characters can be identified as a vector
+# characters can be identified as a vector, as well
 char <- c("Charmander", "Charmeleon", "Charizard")
 char
 class(char)
 
 
-# numericals can take any value
-num <- c(3, 5, 5.6, 8)
-# you can skip the spaces between the values
-num <- c(3,5,5.6,8)
-class(num)
-
-
 ### nesting of commands
-mx <- mean(num)
+x
+mx <- mean(x)
 sqrt(mx)
-sqrt(mean(num))
+sqrt(mean(x))
 
 
 ### can also try out tab completion
 ### type 'box' and hit tab
 ### type 'p' and hit tab again; should complete to 'boxplot'
 ### now complete with '(num)' so we get
-boxplot(num)
+boxplot(x)
 
 # close plot
 dev.off()
@@ -214,9 +204,6 @@ c3 <- c(TRUE, "f")
 class(c3)
 c3
 
-c4 <- c(4+3i, 5)
-class(c4)
-c4
 
 c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
 c1
@@ -227,23 +214,9 @@ c2 <- as.numeric(c1)	# transforming the class of c1 into numeric
 class(c2)
 c2
 
-c3 <- as.complex(c1)
+c3 <- as.logical(c1)
 class(c3)
-c3
-
-c4 <- as.logical(c1)
-class(c4)
-c4		# only 0 is accepted as false
-
-c5 <- as.character(c1)
-class(c5)
-c5
-
-char <- c("a", "b", "c")
-as.numeric(char)
-
-num <- c(5.34, 2.67, 1.98)
-as.integer(num)
+c3		# only 0 is accepted as false
 
 
 ### Environment
@@ -257,6 +230,8 @@ ls()
 # check your working directory
 getwd()
 
+
+### copy the data file(s) from the workshop website to the same directory
 ### use the Files pane (bottom right) to navigate to that directory
 ### then set the working directory to that same location:
 ### - use More icon in Files pane and then select 'Set as Working Directory'
@@ -270,7 +245,6 @@ getwd()
 ### don't forget to save the script once in a while
 ### and add comments to the script as needed
 
-### copy the data file(s) from the workshop website to the same directory
 
 search()            # lists the packages loaded into the environment
 ?xyplot
@@ -305,7 +279,7 @@ num <- 20:100
 num
 
 num[1]	    # subsets the first value in the object num
-num[1:2]	  # subsets the first and the second values in the object num
+num[1:5]	  # subsets from the first and to the fifth values in the object num
 num[c(1, 3)]# subsets the first and the third values in the object num
 num[-1]	    # takes all the values except for the first value from the object num
 
@@ -371,7 +345,7 @@ genders2
 
 
 ### Reading data sets into the environment
-dat <- read.table("rec1_data.txt", header = TRUE) # header is an argument
+dat <- read.table("toyData.txt", header = TRUE) # header is an argument
 dat
 ?read.table # You can see the other arguments of the function from its help page.
 # You will need to set the arguments to read the data correctly. For example, if
@@ -393,35 +367,6 @@ summary(mtcars) # descriptive statistics of the variables
 # are defined as numericals in the data set. Therefore, descriptive statistics
 # about these variables are meaningless. We need to convert them into factors.
 
-mtcars$vs <- as.factor(mtcars$vs)
-mtcars$am <- as.factor(mtcars$am)
-mtcars$gear <- as.factor(mtcars$gear)
-mtcars$carb <- as.factor(mtcars$carb)
-summary(mtcars)
-
-dat <- read.table("toyData.txt", header = TRUE) # header is an argument
-dat
-?read.table # You can see the other arguments of the function from its help page.
-# You will need to set the arguments to read the data correctly. For example, if
-# the missing cases are denoted with a different character such as an asterix,
-# you will need to set na.strings argument to "*". 
-boxplot(dat$Water ~ dat$Gender) # creating boxplots with respect to a factor variable in the data
-# Be careful that when you want to use a variable from a data, you need to specify the data name and use $ to reach the variable in the data set
-plot(dat$Age, dat$Water)  # a scatter plot to see if there is an association between the age and water
-
-
-data()        # you can see the list of the data sets available in R.
-data(mtcars)  # reading mtcars which is an available data set in R into the environment.
-
-
-?mtcars
-str(mtcars)     # structure of the data set
-summary(mtcars) # descriptive statistics of the variables
-# Five variables are actually categorical variables, but they 
-# are defined as numericals in the data set. Therefore, descriptive statistics
-# about these variables are meaningless. We need to convert them into factors.
-
-mtcars$cyl <- as.factor(mtcars$cyl)
 mtcars$vs <- as.factor(mtcars$vs)
 mtcars$am <- as.factor(mtcars$am)
 mtcars$gear <- as.factor(mtcars$gear)
