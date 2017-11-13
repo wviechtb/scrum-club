@@ -62,11 +62,6 @@ q(save="no")
 ############################################################################
 ### open RStudio
 
-### some suggestions:
-### Tools - Global Options
-###    Unselect "Restore .RData into workspace at startup"
-###    Set "Save Workspace to .RData on exit" to Never
-###    Unselect "Always save history (even when not using .Rdata)"
 
 ### elements (panes) of the RStudio window:
 ### top left:     Script Editor
@@ -77,17 +72,10 @@ q(save="no")
 ### use R interactively by typing into the Console:
 a <- 12
 
-
 ### open up new script file (Ctrl+Shift+n / Command+Shift+n)
 ### let's start working with a script file
 ### go to the script file editor and type in commands
 ### From File tab choose New File/R Script, or open a script with Open File
-x <- c(4,2,3,6)
-mean(x)
-boxplot(x)
-
-### then use Ctrl+Enter / Command+Enter to run lines
-### or Ctrl+Shift+Enter / Command+Shift+Enter to run the entire script
 
 
 ### Getting help in R
@@ -150,7 +138,9 @@ class(int2) # since it contains a decimal, "int2" is automatically turned into a
 logic <- c(TRUE, FALSE, FALSE)  # c() is concatenating which combines several objects in a single object, a vector
 logic
 class(logic)
-
+# be careful that R does not specify three classes for three object in the vector
+# vectors cannot contain objects from different classes
+# therefore, we saw a single class for the whole vector
 
 ### Comparisons
 x <- c(2, 4, 6, 3, 5) 
@@ -174,41 +164,10 @@ char
 class(char)
 
 
-### nesting of commands
-x
-mx <- mean(x)
-sqrt(mx)
-sqrt(mean(x))
-
-
-### can also try out tab completion
-### type 'box' and hit tab
-### type 'p' and hit tab again; should complete to 'boxplot'
-### now complete with '(num)' so we get
-boxplot(x)
-
-# close plot
-dev.off()
-
-
-### Coercions
-c1 <- c(1, "a") # trying to put objects from different classes into a vector
-class(c1)		    # since a vector cannot hold objects from different classes, it transforms all the objects in the vector into a single class
-c1              # transforms the class of 1 from numeric to character
-
-c2 <- c(TRUE, 4)
-class(c2)
-c2			        # false takes the value of 0, and true takes everything else with 1 as the first preferance
-
-c3 <- c(TRUE, "f")
-class(c3)
-c3
-
-
+### as. functions
 c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
 c1
 class(c1)
-
 
 c2 <- as.numeric(c1)	# transforming the class of c1 into numeric
 class(c2)
@@ -217,6 +176,10 @@ c2
 c3 <- as.logical(c1)
 class(c3)
 c3		# only 0 is accepted as false
+
+c4 <- as.character(c1)
+class(c4)
+c4    # note the quotation marks 
 
 
 ### Environment
@@ -253,6 +216,65 @@ install.packages("lattice")  # downloading the package if it is not available
 library(lattice)    # loading the lattice package into the environment
 search()            # lattice package is added to the environment
 
+
+### Subsetting
+# a long vector
+num <- 20:100
+num
+
+num[1]	    # subsets the first value in the object num
+num[1:5]	  # subsets from the first and to the fifth values in the object num
+num[c(1, 3)]# subsets the first and the third values in the object num
+num[-1]	    # takes all the values except for the first value from the object num
+
+mat1 <- matrix(c(1:8), nrow = 2) # creating a matrix including values from 1 to 8, with 2 rows
+mat1
+mat2 <- matrix(c(1:8), nrow = 2, byrow = TRUE)    # this time the values are written row by row
+mat2
+# like vectors, matrices can not hold objects from different classes
+class(mat1)
+
+
+mat1
+mat1[1, ]	# subsetting only the first row of mat
+mat1[, 2]	# subsetting the second column of mat
+mat1[1, 2]	
+mat1[-2, ]
+
+
+### Data Frames
+names <- c("Doctor", "Amy Pond", "Rory Williams")
+ages <- c(938, 25, 26)
+# we can't put these variables as they are into a matrix as their classes are different
+matrix(c(names, ages), nrow = 3) # notice the quatation marks around the numbers. They are not numerics anymore, they are characters now
+
+gang <- data.frame(member = names, age = ages)    # data.frame() can be used to create data sets which is also able to contain objects from different classes
+gang
+
+
+gang[1, ]
+gang$age
+
+
+### Reading data sets into the environment
+dat <- read.table("toyData.txt", header = TRUE) # header is an argument
+dat
+?read.table # You can see the other arguments of the function from its help page.
+# You will need to set the arguments to read the data correctly. For example, if
+# the missing cases are denoted with a different character such as an asterix,
+# you will need to set na.strings argument to "*". 
+
+str(dat)     # structure of the data set
+summary(dat) # descriptive statistics of the variables
+
+boxplot(dat$Water ~ dat$Gender) # creating boxplots with respect to a factor variable in the data
+# Be careful that when you want to use a variable from a data, you need to specify the data name and use $ to reach the variable in the data set
+plot(dat$Age, dat$Water)  # a scatter plot to see if there is an association between the age and water
+
+
+
+### Some points
+
 ### object/variables names:
 ### - must begin with a letter
 ### - contain alphanumeric symbols (A-Z, a-z, 0-9)
@@ -274,33 +296,23 @@ mean(mean)
 rm(mean)
 
 
-# a long vector
-num <- 20:100
-num
-
-num[1]	    # subsets the first value in the object num
-num[1:5]	  # subsets from the first and to the fifth values in the object num
-num[c(1, 3)]# subsets the first and the third values in the object num
-num[-1]	    # takes all the values except for the first value from the object num
-
-mat1 <- matrix(c(1:8), nrow = 2) # creating a matrix including values from 1 to 8, with 2 rows
-mat1
-mat2 <- matrix(c(1:8), nrow = 2, byrow = TRUE)    # this time the values are written row by row
-mat2
-mat3 <- matrix(c(1:4, "a", "b", "c", "d"), nrow = 2, byrow = TRUE) # matrices can not hold objects from different classes
-mat3
-class(mat1)
-class(mat2)
-class(mat3)
+### nesting of commands
+x
+mx <- mean(x)
+sqrt(mx)
+sqrt(mean(x))
 
 
-mat1
-mat1[1, ]	# subsetting only the first row of mat
-mat1[, 2]	# subsetting the second column of mat
-mat1[1, 2]	
-mat1[-2, ]
+### can also try out tab completion
+### type 'box' and hit tab
+### type 'p' and hit tab again; should complete to 'boxplot'
+### now complete with '(num)' so we get
+boxplot(x)
 
+# close plot
+dev.off()
 
+### ***
 list1 <- list(1, "f", 4+5i, TRUE)    # lists can include objects from different classes
 list1
 
@@ -323,19 +335,7 @@ list3[[1]][1]
 list3$num	# can also use the name of the branch to reach the objects inside of that branch
 list3$char
 list3$char[1]
-
-
-### Data frames
-names <- c("Doctor", "Amy Pond", "Rory Williams")
-ages <- c(938, 25, 26)
-gang <- data.frame(member = names, age = ages)    # data.frame() can be used to create data sets which is also able to contain objects from different classes
-gang
-
-
-gang
-gang[1, ]
-gang$age
-
+### ***
 
 genders <- factor(c("m", "f", "m", "m", "f"))	# factors can show categorical data
 genders
@@ -343,22 +343,8 @@ genders
 genders2 <- factor(c("m", "f", "m", "m", "f"), levels = c("m", "f"), labels = c("male", "female"))	# The categories in the factors can be labeled
 genders2
 
-
-### Reading data sets into the environment
-dat <- read.table("toyData.txt", header = TRUE) # header is an argument
-dat
-?read.table # You can see the other arguments of the function from its help page.
-# You will need to set the arguments to read the data correctly. For example, if
-# the missing cases are denoted with a different character such as an asterix,
-# you will need to set na.strings argument to "*". 
-boxplot(dat$Water ~ dat$Gender) # creating boxplots with respect to a factor variable in the data
-# Be careful that when you want to use a variable from a data, you need to specify the data name and use $ to reach the variable in the data set
-plot(dat$Age, dat$Water)  # a scatter plot to see if there is an association between the age and water
-
-
 data()        # you can see the list of the data sets available in R.
 data(mtcars)  # reading mtcars which is an available data set in R into the environment.
-
 
 ?mtcars
 str(mtcars)     # structure of the data set
