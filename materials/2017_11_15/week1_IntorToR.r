@@ -40,7 +40,6 @@ x^3
 (x * 3)^2
 exp(x)
 log(x)  # calculates the natural logarithm
-log10(x)	
 
 
 # close R (remember to choose "no" when asked to save workspace)
@@ -155,24 +154,6 @@ char
 class(char)
 
 
-### as. functions
-c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
-c1
-class(c1)
-
-c2 <- as.numeric(c1)	# transforming the class of c1 into numeric
-class(c2)
-c2
-
-c3 <- as.logical(c1)
-class(c3)
-c3		# only 0 is accepted as false
-
-c4 <- as.character(c1)
-class(c4)
-c4    # note the quotation marks 
-
-
 ### Environment
 ls()			      # lists the objects and functions already defined in the environment (workspace)
 rm(logic)		    # removes the defined object or function from the environment. rm("a") also may be used
@@ -240,6 +221,7 @@ gang
 
 
 gang[1, ]
+gang[, 2]
 gang$age
 
 
@@ -254,11 +236,14 @@ dat
 str(dat)     # structure of the data set
 summary(dat) # descriptive statistics of the variables
 
-boxplot(dat$Water ~ dat$Gender) # creating boxplots with respect to a factor variable in the data
-# Be careful that when you want to use a variable from a data, you need to specify the data name and use $ to reach the variable in the data set
 plot(dat$Age, dat$Water)  # a scatter plot to see if there is an association between the age and water
+# Be careful that when you want to use a variable from a data, you need to specify the data name and use $ to reach the variable in the data set
+boxplot(dat$Water ~ dat$Gender) # creating boxplots with respect to a factor variable in the data
 
-
+# doing a t-test
+males <- dat$Water[dat$Gender == "male"]
+females <- dat$Water[dat$Gender == "female"]
+t.test(males, females)
 
 ### Some points
 
@@ -298,6 +283,23 @@ boxplot(x)
 
 # close plot
 dev.off()
+
+### as. functions
+c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
+c1
+class(c1)
+
+c2 <- as.numeric(c1)	# transforming the class of c1 into numeric
+class(c2)
+c2
+
+c3 <- as.logical(c1)
+class(c3)
+c3		# only 0 is accepted as false
+
+c4 <- as.character(c1)
+class(c4)
+c4    # note the quotation marks 
 
 ### ***
 list1 <- list(1, "f", 4+5i, TRUE)    # lists can include objects from different classes
