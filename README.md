@@ -26,7 +26,7 @@ To get things going, we will devote a number of meetings to teaching R. As membe
 
 ### Meeting Structure
 
-In general, 45-60 minutes of a meeting will be devoted to more direct teaching and/or presentations (for the first few meetings, probably even a bit more time). The remaining time is 'free hacking time' where (a) newcomers can examine the materials from previous meetings on their own (and, as needed, with the support from more experienced members), (b) members can explore other topics, and (c) members can just mingle with like-minded individuals.
+In general, 45-60 minutes of a meeting will be devoted to more direct teaching and/or presentations (for the first few meetings, probably even a bit more time). The remaining time is 'free hacking' and hangout time where (a) newcomers can examine the materials from previous meetings on their own (and, as needed, with the support from more experienced members), (b) members can explore other topics, and (c) members can just mingle with like-minded individuals.
 
 Since meetings are meant to be 'hands on' (i.e., to the extent possible, we will demonstrate, try out, practice with, and play around with the software and tools we discuss), make sure to bring a laptop to the meetings. For the most part, it should not matter whether you use Windows, MacOS, or Linux/Unix, but occasionally software may only work under certain operating systems. We will deal with these issues as they arise.
 
