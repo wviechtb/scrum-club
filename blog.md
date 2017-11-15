@@ -4,7 +4,7 @@
 
 ## Blog / Announcements
 
-#### 2017/11/15: First Meeting
+### 2017/11/15: First Meeting
 
 We had our first meeting this afternoon. 90+ people showed up, wanting to learn more about tools and software for scientific computing and research. It is great to see such a turnout, much bigger actually than we had anticipated. Unfortunately, the room was just a tad too small and some people had to stand / sit on the floor -- very sorry about that! I think the Greepzaal at the AZM (where we will be meeting starting in 2018) is a bit larger, so hopefully this will not be an ongoing issue. As suggested, we can also try a video stream for the next meeting, but I am not sure how well this will work. I am willing to give this a try though, so keep an eye on here for an announcement.
 
