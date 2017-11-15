@@ -245,7 +245,8 @@ males <- dat$Water[dat$Gender == "male"]
 females <- dat$Water[dat$Gender == "female"]
 t.test(males, females)
 
-### Some points
+
+### some extra stuff that you can work on your own
 
 ### object/variables names:
 ### - must begin with a letter
@@ -284,6 +285,7 @@ boxplot(x)
 # close plot
 dev.off()
 
+
 ### as. functions
 c1 <- c(-2:2)	  # creates a sequence from -2 to 2 with increaments of 1 as integers
 c1
@@ -301,7 +303,8 @@ c4 <- as.character(c1)
 class(c4)
 c4    # note the quotation marks 
 
-### ***
+
+### lists
 list1 <- list(1, "f", 4+5i, TRUE)    # lists can include objects from different classes
 list1
 
@@ -324,7 +327,7 @@ list3[[1]][1]
 list3$num	# can also use the name of the branch to reach the objects inside of that branch
 list3$char
 list3$char[1]
-### ***
+
 
 genders <- factor(c("m", "f", "m", "m", "f"))	# factors can show categorical data
 genders
