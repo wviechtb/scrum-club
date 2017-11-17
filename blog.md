@@ -6,7 +6,7 @@
 
 ### 2017-11-17: Collaboration Tool
 
-As was mentioned at the first meeting, we created a Slack channel/community to communicate within the club. However, there are some limitations on the free plan over at Slack, so following one of the suggestions, we are now going to try switching over to Gitter as our collaboration/communication tool. So, if you want to join the chat, please go here: https://gitter.im/scrum-club/ In order to sign in at Gitter, you either need a GitHub or Twitter account. We plan on covering Git + GitHub down the road, so it might be a good idea to create a GitHub (https://github.com/) account anyway (also in case you don't use Twitter or don't want to use it for signing into Gitter). Important announcements that are relevant to all will still be placed here.
+As was mentioned at the first meeting, we created a Slack channel/community to communicate within the club. However, there are some limitations on the free plan over at Slack, so following one of the suggestions, we are now going to try switching over to Gitter as our collaboration/communication tool. So, if you want to join the chat, please go here: [https://gitter.im/scrum-club/](https://gitter.im/scrum-club/) In order to sign in at Gitter, you either need a GitHub or Twitter account. We plan on covering Git + GitHub down the road, so it might be a good idea to create a GitHub ([https://github.com/](https://github.com/)) account anyway (also in case you don't use Twitter or don't want to use it for signing into Gitter). Important announcements that are relevant to all will still be placed here.
 
 ### 2017-11-15: First Meeting
 
