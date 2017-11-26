@@ -25,3 +25,5 @@ Here, we keep track of potential topic ideas for future meetings. **Suggestions 
 * social media for communicating about science/stats/academia/research/etc.
 * free/open-source SPSS-like alternative stats packages (e.g., [JASP](https://jasp-stats.org/), [jamovi](https://www.jamovi.org/), [PSPP](https://www.gnu.org/software/pspp/))
 * programming editors (e.g., Atom, Sublime, Emacs, Vim, Notepad++, ...)
+* tools/approaches for writing papers with many co-authors
+* automatization via scripting
