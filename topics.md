@@ -27,3 +27,4 @@ Here, we keep track of potential topic ideas for future meetings. **Suggestions 
 * programming editors (e.g., Atom, Sublime, Emacs, Vim, Notepad++, ...)
 * tools/approaches for writing papers with many co-authors
 * automation via scripting
+* mind mapping software
