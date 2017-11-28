@@ -11,3 +11,4 @@ Name | Position/Role | Interests
 Wolfgang Viechtbauer | Associate Professor of Methodology and Statistics at Maastricht University | statistical programming (esp. R), high-performance computing, open-source software, Linux, efficient/organized workflows
 Ozan Çınar | PhD student at Maastricht University | computational statistics, bioinformatics, genetics
 Sander van Kuijk | Clinical Epidemiologist at Maastricht University Medical Centre | prediction modeling, stochastic simulations, missing data
+Ingo Marquardt | PhD student at Maastricht University | cognitive neuroscience, high-field fMRI, interested in open & reproducible science, python
