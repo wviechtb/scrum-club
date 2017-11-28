@@ -8,4 +8,5 @@ The materials for the upcoming meeting and all previous meetings are collected h
 
 Date | Topic | Folder
 :--- | :---- | :--------
-2017-15-11 | Introduction / Starting with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-15)
+2017-11-15 | Introduction / Starting with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-15)
+2017-11-29 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-29)
