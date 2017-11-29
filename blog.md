@@ -6,7 +6,7 @@
 
 ### 2017-11-29: Topic Survey
 
-We would like to get a sense of people's interest in the various [topics](topics.md) we thought about covering (but you can always suggest further topics you think might be of interest to the group). To fill in the survey, please go here: https://app.gosoapbox.com/ and use code 854-921-257.
+We would like to get a sense of people's interest in the various [topics](topics.md) we thought about covering (but you can always suggest further topics you think might be of interest to the group). To fill in the survey, please go here: [https://app.gosoapbox.com/](https://app.gosoapbox.com/) and use code 854-921-257.
 
 ### 2017-11-29: Video Stream
 
