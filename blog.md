@@ -4,9 +4,13 @@
 
 ## Blog / Announcements
 
+### 2017-11-29: Topic Survey
+
+We would like to get a sense of people's interest in the various [topics](topics.md) we thought about covering (but you can always suggest further topics you think might be of interest to the group). To fill in the survey, please go here: https://app.gosoapbox.com/ and use code 854-921-257.
+
 ### 2017-11-29: Video Stream
 
-In case the room fills up again to the brim for our second meeting today, we will try to provide a video stream. For this, we will start a [Google Hangout](https://hangouts.google.com/) and then post the link here. Not sure how well this will work and this is really only a backup option in case we run out of seats (so we won't bother with this if there are enough seats for everybody).
+In case the room fills up again to the brim for our second meeting today, we will try to provide a video stream. For this, we will start a [Google Hangout](https://hangouts.google.com/) and then post the link here. Not sure how well this will work and this is really only a backup option in case we run out of seats (so we won't bother with this if there are enough seats for everybody). **Update:** We seem to have enough seats today so there won't be a need for a video stream.
 
 ### 2017-11-17: Collaboration Tool
 
