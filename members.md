@@ -13,3 +13,4 @@ Ozan Çınar | PhD student at Maastricht University | computational statistics, 
 Sander van Kuijk | Clinical Epidemiologist at Maastricht University Medical Centre | prediction modeling, stochastic simulations, missing data
 Ingo Marquardt | PhD student at Maastricht University | cognitive neuroscience, high-field fMRI, interested in open & reproducible science, python
 David Barnett | Masters student at UM: Health Science Research (epidemiology internship) | omics, R, github, python |
+Sophie Vanbelle|Assistant Professor of Methodology and Statistics at Maastricht University| R, Latex (including beamer), Bayesian statistics (Winbugs, Openbugs, Jags), SAS, parallel computing in R, efficient code writing, also interested in python and open & reproducible sciences.
