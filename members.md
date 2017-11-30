@@ -17,3 +17,4 @@ Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Note
 Sophie Vanbelle | Assistant Professor of Methodology and Statistics at Maastricht University | R, Latex (including beamer), Bayesian statistics (Winbugs, Openbugs, Jags), SAS, parallel computing in R, efficient code writing, also interested in python and open & reproducible sciences
 Pim van Montfort | MD, PhD student at Maastricht University | obstetrics, prediction modelling, interested in R, zotero, and open & reproducible sciences in general
 Omer Faruk Gulban | PHD student at Maastricht University | cognitive neuroscience, high-field MRI, image & polygon mesh processing, python, matlab, git
+Svenja Petersohn | Junior researcher MUMC, PhD student Maastricht University | prediction modelling, statistical programming (especially R), (R)markdown
