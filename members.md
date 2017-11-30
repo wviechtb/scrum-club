@@ -15,3 +15,4 @@ Ingo Marquardt | PhD student at Maastricht University | cognitive neuroscience, 
 David Barnett | Masters student at UM: Health Science Research (epidemiology internship) | omics, R, github, python |
 Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Notebooks, Health Services Research, interested in machine learning
 Sophie Vanbelle | Assistant Professor of Methodology and Statistics at Maastricht University | R, Latex (including beamer), Bayesian statistics (Winbugs, Openbugs, Jags), SAS, parallel computing in R, efficient code writing, also interested in python and open & reproducible sciences
+Pim van Montfort | MD, PhD student at Maastricht University | obstetrics, prediction modelling, interested in R, zotero, and open & reproducible sciences in general
