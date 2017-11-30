@@ -14,3 +14,4 @@ Sander van Kuijk | Clinical Epidemiologist at Maastricht University Medical Cent
 Ingo Marquardt | PhD student at Maastricht University | cognitive neuroscience, high-field fMRI, interested in open & reproducible science, python
 David Barnett | Masters student at UM: Health Science Research (epidemiology internship) | omics, R, github, python |
 Niels Hameleers | Data Scientist at Maastricht University | Python, Jupyter Notebooks, Health Services Research, interested in machine learning
+Sophie Vanbelle | Assistant Professor of Methodology and Statistics at Maastricht University | R, Latex (including beamer), Bayesian statistics (Winbugs, Openbugs, Jags), SAS, parallel computing in R, efficient code writing, also interested in python and open & reproducible sciences
