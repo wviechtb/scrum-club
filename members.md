@@ -18,3 +18,4 @@ Sophie Vanbelle | Assistant Professor of Methodology and Statistics at Maastrich
 Pim van Montfort | MD, PhD student at Maastricht University | obstetrics, prediction modelling, interested in R, zotero, and open & reproducible sciences in general
 Omer Faruk Gulban | PHD student at Maastricht University | cognitive neuroscience, high-field MRI, image & polygon mesh processing, python, matlab, git
 Svenja Petersohn | Junior researcher MUMC, PhD student Maastricht University | prediction modelling, statistical programming (especially R), (R)markdown
+Jimmie Leppink | Assistant Professor of Methodology and Statistics at Maastricht University | statistical programming, statistical modeling, psychometrics, latent variable modeling, Bayesian statistics, replication, reproducibility, registered reports
