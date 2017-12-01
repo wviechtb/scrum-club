@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/scrum-club/general)
+
 **[Home](README.md)** // [Blog](blog.md) // [Schedule](schedule.md) // [Topics](topics.md) // [Members](members.md) // [Materials](/materials/materials.md)
 
 ---
