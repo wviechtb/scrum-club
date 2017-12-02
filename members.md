@@ -19,4 +19,4 @@ Pim van Montfort | MD, PhD student at Maastricht University | obstetrics, predic
 Omer Faruk Gulban | PHD student at Maastricht University | cognitive neuroscience, high-field MRI, image & polygon mesh processing, python, matlab, git
 Svenja Petersohn | Junior researcher MUMC, PhD student Maastricht University | prediction modelling, statistical programming (especially R), (R)markdown
 Jimmie Leppink | Assistant Professor of Methodology and Statistics at Maastricht University | statistical programming, statistical modeling, psychometrics, latent variable modeling, Bayesian statistics, replication, reproducibility, registered reports
-Arno Angerer | M.Sc. Business Intelligence & Smart Services student at the School of Business and Economics, Maastricht University  | Data Science, R Programming, Exploratory Data Analysis, Data Visualization, Predictive Analytics, Machine Learning, Databases, Tableau
+Arno Angerer | M.Sc. Business Intelligence & Smart Services student at the School of Business and Economics, Maastricht University  | data science, R programming, exploratory data analysis, data visualization, predictive analytics, machine learning, databases, Tableau
