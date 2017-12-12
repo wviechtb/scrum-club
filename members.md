@@ -22,3 +22,4 @@ Jimmie Leppink | Assistant Professor of Methodology and Statistics at Maastricht
 Arno Angerer | M.Sc. Business Intelligence & Smart Services student at the School of Business and Economics, Maastricht University  | data science, R programming, exploratory data analysis, data visualization, predictive analytics, machine learning, databases, Tableau
 Stijn Michielse | PhD student at Maastricht University | neuroimaging (FSL, SPM, ExploreDTI), statistical programming, data science, open science, Linux, Matlab, Bash
 Dries Boers | Bioinformatician at MaCSBio, the Maastricht Centre for Systems Biology | R, Matlab and Python programming, UNIX scripting, version control using Git, parallel computing, reference managers, text editors (Emacs)
+Marjan Drukker | Senior researcher, epidemiologist | Stata, networks (of psychological symptoms)
