@@ -1,0 +1,5 @@
+id age sex    y
+1  26  male   3
+2  19  female 5
+3  23  female 4
+4  32  male   1

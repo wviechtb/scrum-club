@@ -1,0 +1,5 @@
+subjno,rs10084238c,rs10196635c,rs11677670c,rs11683424c,rs11887120c
+1,G/A,A/A,C/T,C/C,C/C
+2,G/A,A/A,C/T,C/C,C/C
+3,A/A,A/A,C/C,C/C,C/T
+4,,T/A,C/C,C/C,C/C

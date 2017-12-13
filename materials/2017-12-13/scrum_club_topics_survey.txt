@@ -1,0 +1,41 @@
+R	Python (and esp. SciPy)	Matlab/Octave	Julia (a relatively new programming language for numerical computing)	Version Control and especially Git + GitHub	Project/File Organization	"Reference Managers/Tools (e.g., Endnote, Zotero, Mendeley)"	"Presentation Software/Tools (i.e., alternatives to PowerPoint)"	Mind Mapping Software	"Free/Open-Source SPSS-like Alternative Stats Packages (e.g., JASP, jamovi, PSPP)"	Tools/Websites for Open Science and Reproducible Research	"Programming Editors (e.g., Atom, Sublime, Emacs, Vim, Notepad++, ...)"	Tools/Approaches for Writing Papers with Many Co-Authors	Social Media / Podcasts Related to Science/Stats/Academia/Research/etc	markdown / Rmarkdown	LaTeX	Shiny	Jupyter / R Notebooks	Linux/Unix (or other operating systems besides Windows and MacOS)	Multicore/Parallel Processing	Cloud Computing	Scripting (via the command line / terminal)	
+Very High	Low	Low	Low	Low	High	Very High	Very High	Medium	Very High	Medium	Low	High	Medium	High	Medium	High	High	Low	Low	Medium	Medium	0%
+Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High		Very High	Very High	Very High	Very High	High	High	Medium	Medium	High	Medium	Medium	High	High	0%
+High	Medium	Low	High	Medium	Low	Medium	Very High		High	Medium	Low	Very High	Medium	Low	High	Medium	Medium	Very High	High	Medium	Medium	0%
+Medium	Very High	Medium	Low	High	High	Very Low	Very Low	Very Low	Very Low	Very Low	Low	Very Low	Very Low	High	Very High	Very High	Very High	High	Very High	Medium	Very High	0%
+Very High	Medium	Very High	Low	Medium	Low	Very Low	Very Low	Very Low	High	Low	High	Very Low	Very Low	Low	Low	Medium	Medium	Very Low	Very Low	Low	Low	0%
+Very High	High	Medium	Low	Very High	Very High	High	Medium	Low	Low	Very High	Low	Very High	Very High	Very High	High	High	High	Medium	High	Medium	Medium	0%
+Very High	Medium	Medium	Low	Medium	High	Very High	High	High	Medium	Very High	Medium	Very High	High	Medium	Medium	Medium	Medium	Low	Low	Medium	High	0%
+Very High	Medium	Medium	Very Low	High	High	High	Medium	Very Low	Very Low	Low	Low	Very High	High	Very High	Very Low	High	Low	Very Low	Low	Very Low	Very Low	0%
+Very High	High	Medium	Medium	High	High	High	Medium	High	Medium	Low	Medium	Medium	Medium	Low	High	Low	Medium	Low	Low	Medium	Low	0%
+Very High	Very High	Very Low	Low	High	Medium	Low	Very Low	Medium	Very Low	High	Medium	High	Low	Medium	High	High	Medium	Very Low	Medium	High	Medium	0%
+Very High	Very High	Very High	High	High	Medium	Very High	High	Low	High	High	Medium	High	High	Medium	High	High	High	Very Low	Medium	High	High	0%
+Very High	Medium	Medium	Medium	High	Very High	Very High	Very High	Very High	Medium	Very High	Low	Very High	High	Very High	Low	Low	Medium	Low	Very Low	High	High	0%
+Very High	High	Medium	Low	Very High	High	Low	Medium	Low	Medium	High	Medium	Very Low	Low	Very High	Very High	Very High	High	Low	Very High	High	Medium	0%
+Medium																						0%
+Very High	Low	Low	Low	Low	Medium	High	High	Medium	High	High	Low	Very High	High	Medium	Low	Low	Medium	Low	Low	Medium	Low	0%
+High	Very Low	Medium	Low	Medium	Very High	Very High	High	High	High	Medium	Low	High	Medium	Very High	High	Very Low	Very Low	Very Low	Low	Medium	Low	0%
+Very High	Very Low	Very Low	Very Low	Very Low	Very Low	Very Low	High	Medium	High	Low	Low	Low	High	Very Low	Very Low	Medium	Medium	Low	Low	Low	Low	0%
+Very High	High	High	Low	Very High	Very High	High	Medium	Very High	Low	Low	Very High	Medium	Medium	Very High	Low	Medium	High	Very High	Very High	High	High	0%
+Very High	Low	Medium	Very Low	Very Low	Very High	Medium	Low	Very Low	Very High	Very High	Medium	Very High	Medium	Very Low	High	Very Low	Low	Very Low	Very Low	Low	Medium	0%
+Very High	High	Low	Very Low	Medium	Low	Very Low	Very Low	Medium	Very Low	Very Low	Very Low	Very Low	Low	High	Low	Very Low	Medium	Medium	Medium	Medium	Medium	0%
+Very High	Very High	Medium	Very Low	Very High	Very Low	Very Low	Very Low	Very Low	Very Low	Very Low	Very Low	Very Low	Very Low	Medium	Very Low	Very Low	Medium	Very Low	Very Low	Very Low	Low	0%
+Very High	High	Medium	Low	Medium	High	High	Very High	High	Medium	High	Low	Medium	High	Low	High	Medium	Low	High	Low	Medium	High	0%
+Very High	Medium	Very Low	Medium	High	Medium	Very High	Very High	Low	High	Very High	High	Medium	Low	Medium	Medium	Medium	Medium	High	Low	Low	Low	0%
+Very High	High	Very High	Very Low	High	Medium	Very Low	Very Low	Very Low	Medium	High	Low	Low	Medium	Low	Medium	Low	Low	Very High	Very High	Very High	Very High	0%
+Very High	Medium	Low	Medium	Very Low	Medium	Low	Very Low	High	Very Low	Medium												0%
+Very High	Very High	Very Low	Very High	Very High	High	Medium	Medium	Low	High	Very High	Very High	Very High	Medium	Very High	Very High	Medium	High	Very High	Very High	Very High	Very High	0%
+High	Medium	Very High	Low	Very High	Low	Medium	High	High	Low	Very High	Medium	High	Very High	Low	Very Low	Very Low	Low	High	Medium	Medium	High	0%
+Very High	High	Low	High	High	High	Medium	Medium	High	Medium	High	High	Very High	Medium	Medium	Medium	Medium	Medium	High	Medium	High	Medium	0%
+Very High	High	Very Low	High	High	Very High	High	Very High	Very High	Very High	Very High	Very High	Very High	Medium	High	High	High	High	High	High	Very High	High	0%
+Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	Very High	0%
+Very High	High	Low	Medium	Medium	Medium	Medium	Medium	Low	Low	Medium	Medium	Medium	Very Low	Medium	Very Low	Medium	Medium	Medium	Very Low	Low	Very High	0%
+Very High	Very High	Very High	High	Medium	Medium	Medium	Medium	Very High	Medium	Medium	Low	Medium	High	Medium	Very High	High	Medium	Very High	Very High	Very High	High	0%
+Medium	Very High	Very Low	Very Low	Very High	High	High	Very High	Low	High	High	High	Very High	Medium	High	Medium	Very Low	Low	Medium	High	High	High	0%
+High	High	Medium	Low	High	Medium	Medium	Very High	High	Low	Low	Low	High	Low	Medium	Medium	Low	Low	High	Very High	High	High	0%
+Very High	High	Low	Very Low	Low	Medium	Very Low	Very Low	Low	Very Low	Medium	High	Very Low	Very Low	Low	Very Low	Very Low	Medium	Medium	Very High	Very Low	High	0%
+Very High	Medium	Medium	Low	High	High	High	High	High	High	Medium	Low	High	Low	Very High	Low	Low	Medium	Medium	Very Low	Very Low	Very Low	0%
+Very High	Low	Very Low	Medium	Very High	High	Very Low	Low	Low	Very Low	Medium	High	Very Low	High	Very High	High	Very High	Low	High	High	High	Very High	0%
+Very High	Very High	Medium	Very High	Very High	High	Medium	Medium	High	High	High	High	Medium	Low	Medium	Medium	Medium	Medium	Medium	High	High	High	0%
+High	Very High	Low	High	Very High	High	Medium	High	Medium	Very Low	Very High	High	High	Medium	Medium	Medium	Medium	High	Very High	Very High	Very High	High	0%
+Very High	Very High	Medium	Low	Medium	High	Very High	High	High	Low	Very High	Low	High	Very High	Very Low	High	Very Low	Low	Very High	Low	High	Low	0%
