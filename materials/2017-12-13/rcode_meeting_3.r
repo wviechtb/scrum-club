@@ -174,6 +174,14 @@ object.size(dat)        # uses object.size() from 'gdata'
 gdata::object.size(dat) # force using object.size() from 'gdata'
 utils::object.size(dat) # force using object.size() from 'utils'
 
+### Actually, gdata requires Perl (https://en.wikipedia.org/wiki/Perl) to be
+### installed for this to work. Another package that works without external
+### dependencies is readxl, so let's try this:
+
+install.packages("readxl")
+library(readxl)
+dat <- read_xls("scrum_club_topics_survey.xls")
+
 ### inspect structure of data
 
 str(dat)
@@ -302,19 +310,19 @@ plot(res, xlab="Reference Manager Rating", ylab="Presentation Software Rating")
 ### save a graph in various formats (saved to current working directory)
 
 pdf("plot.pdf")
-plot(res$x, res$y, cex=res$number, pch=19, xlab="Reference Manager Rating", ylab="Presentation Software Rating")
+barplot(table(dat$git), xlab="Rating", ylab="Frequency", main="Interest in Git/GitHub")
 dev.off()
 
 postscript("plot.eps")
-plot(res$x, res$y, cex=res$number, pch=19, xlab="Reference Manager Rating", ylab="Presentation Software Rating")
+barplot(table(dat$git), xlab="Rating", ylab="Frequency", main="Interest in Git/GitHub")
 dev.off()
 
 png("plot.png")
-plot(res$x, res$y, cex=res$number, pch=19, xlab="Reference Manager Rating", ylab="Presentation Software Rating")
+barplot(table(dat$git), xlab="Rating", ylab="Frequency", main="Interest in Git/GitHub")
 dev.off()
 
 png("plot.png", width=1000, height=1000, pointsize=24)
-plot(res$x, res$y, cex=res$number, pch=19, xlab="Reference Manager Rating", ylab="Presentation Software Rating")
+barplot(table(dat$git), xlab="Rating", ylab="Frequency", main="Interest in Git/GitHub")
 dev.off()
 
 ### linear regression
@@ -352,26 +360,24 @@ print(res, cut=0.3, sort=TRUE)
 
 res <- hclust(dist(dat), method="ward.D")
 plot(res)
-rect.hclust(res, k=3, border=c("red", "blue", "green"))
+rect.hclust(res, k=2, border=c("red", "blue"))
 
 ### categorize people into three clusters
 
-sav <- cutree(res, 3)
+sav <- cutree(res, 2)
 sav
 
 ### get means of items within each cluster
 
 dat1 <- subset(dat, sav==1)
 dat2 <- subset(dat, sav==2)
-dat3 <- subset(dat, sav==3)
 
 sav1 <- sort(apply(dat1, 2, mean, na.rm=TRUE), decreasing=TRUE)
 sav2 <- sort(apply(dat2, 2, mean, na.rm=TRUE), decreasing=TRUE)
-sav3 <- sort(apply(dat3, 2, mean, na.rm=TRUE), decreasing=TRUE)
 
 ### barplot of item means for the three clusters
 
-barplot(cbind(sav1, sav2, sav3), beside=TRUE, names.arg=c(names(sav1), names(sav2), names(sav3)), las=2)
+barplot(cbind(sav1, sav2), beside=TRUE, names.arg=c(names(sav1), names(sav2)), las=2)
 
 ### hierarchical cluster analysis of topics
 
