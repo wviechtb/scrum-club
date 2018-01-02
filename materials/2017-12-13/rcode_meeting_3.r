@@ -362,7 +362,7 @@ res <- hclust(dist(dat), method="ward.D")
 plot(res)
 rect.hclust(res, k=2, border=c("red", "blue"))
 
-### categorize people into three clusters
+### categorize people into two clusters
 
 sav <- cutree(res, 2)
 sav
@@ -375,7 +375,7 @@ dat2 <- subset(dat, sav==2)
 sav1 <- sort(apply(dat1, 2, mean, na.rm=TRUE), decreasing=TRUE)
 sav2 <- sort(apply(dat2, 2, mean, na.rm=TRUE), decreasing=TRUE)
 
-### barplot of item means for the three clusters
+### barplot of item means for the two clusters
 
 barplot(cbind(sav1, sav2), beside=TRUE, names.arg=c(names(sav1), names(sav2)), las=2)
 
