@@ -6,7 +6,7 @@
 
 Here is the schedule for upcoming and past meetings. Dates are given as year/month/day. At the moment, all meetings take place on Wednesdays from 16:30 to 18:00.
 
-### Upcoming Meetings
+### Meetings
 
 Date | Topic | Location
 :--- | :---- | :-------
@@ -21,7 +21,3 @@ Date | Topic | Location
 2018-03-28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 
 (TBD = to be determinded)
-
-### Past Meetings
-
-(none yet)
