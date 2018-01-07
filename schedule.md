@@ -20,4 +20,4 @@ Date | Topic | Location
 2018-03-14 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-03-28 | TBD | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 
-(TBD = to be determinded)
+(TBD = to be determined)
