@@ -11,3 +11,4 @@ Date | Topic | Folder
 2017-11-15 | Introduction / Starting with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-15)
 2017-11-29 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-29)
 2017-12-13 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-12-13)
+2018-01-17 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-01-17)
