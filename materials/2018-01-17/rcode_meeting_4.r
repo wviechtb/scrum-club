@@ -195,7 +195,7 @@ fit2 <- lm(mpg ~ -1 + hp + wt, data = mtcars)
 summary(fit2)
 
 # adding the interaction between two variables.
-fit3 <- lm(mpg ~ hp + wt + hp * wt, data = mtcars)
+fit3 <- lm(mpg ~ hp + wt + hp:wt, data = mtcars)
 summary(fit3)
 
 # or, in short:
@@ -226,7 +226,7 @@ fit5 <- lm(mpg ~ am + cyl, data = mtcars)
 summary(fit5)
 
 # two covariates with their interactions.
-fit6 <- lm(mpg ~ am + cyl + am * cyl, data = mtcars)
+fit6 <- lm(mpg ~ am + cyl + am:cyl, data = mtcars)
 summary(fit6)
 
 # full model. Using "." means that we want to include all the covariates in the data. 
