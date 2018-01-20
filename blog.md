@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2018-01-19: Institute of Data Science Announcement!!
+
+In behalf of the Institute of Data Science team, we extend the invitation to our **Symposium: The Future of a Data-Driven Society** next January 25th, the event will feature keynote lectures by inspiring leaders and competitions for world-changing visions and outstanding research proposals for more details here is [the link for the event](https://www.maastrichtuniversity.nl/events/symposium-future-data-driven-society). and do not forget follow us in [Twitter](https://twitter.com/UM_IDS) and [Facebook](https://www.facebook.com/IDSatUM/).
+
 ### 2017-11-29: Topic Survey
 
 We would like to get a sense of people's interest in the various [topics](topics.md) we thought about covering (but you can always suggest further topics you think might be of interest to the group). To fill in the survey, please go here: [https://app.gosoapbox.com/](https://app.gosoapbox.com/) and use code 854-921-257.
