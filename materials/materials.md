@@ -12,4 +12,4 @@ Date | Topic | Folder
 2017-11-29 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-29)
 2017-12-13 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-12-13)
 2018-01-17 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-01-17)
-2018-01-31 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-01-31)
+2018-01-31 | Last session on R (for now) | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-01-31)
