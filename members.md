@@ -1,4 +1,4 @@
-[Home](README.md) // [Blog](blog.md) // [Schedule](schedule.md) // [Topics](topics.md) // **[Members](members.md)** // [Materials](/materials/materials.md)
+[Home](README.md) // [Blog](blog.md) // [Schedule](schedule.md) // [Topics](topics.md) // **[Members](members.md)** // [Materials](/materials/materials.md) // [Chat on Gitter](https://gitter.im/scrum-club/general)
 
 ---
 
