@@ -1,5 +1,6 @@
-# Resources on Dask
-## A parallel computing library for scientific computing
+# Resources on Dask: A parallel computing library for scientific computing
+
+## Some links
 
 [Dask documentation](https://dask.pydata.org/en/latest/#)
 
