@@ -23,4 +23,5 @@ Arno Angerer | M.Sc. Business Intelligence & Smart Services student at the Schoo
 Stijn Michielse | PhD student at Maastricht University | neuroimaging (FSL, SPM, ExploreDTI), statistical programming, data science, open science, Linux, Matlab, Bash
 Dries Boers | Bioinformatician at MaCSBio, the Maastricht Centre for Systems Biology | R, Matlab and Python programming, UNIX scripting, version control using Git, parallel computing, reference managers, text editors (Emacs)
 Marjan Drukker | Senior researcher, epidemiologist | Stata, networks (of psychological symptoms)
+Mathijs de Rijk | PhD student at Maastricht University | neuroimaging, Python, Matlab
 Aryo Zare | PhD student, Neuroscience | Programming paradigms, Numerical analysis software,  MATLAB, OCTAVE,  Time series analysis.
