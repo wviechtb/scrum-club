@@ -24,3 +24,4 @@ Stijn Michielse | PhD student at Maastricht University | neuroimaging (FSL, SPM,
 Dries Boers | Bioinformatician at MaCSBio, the Maastricht Centre for Systems Biology | R, Matlab and Python programming, UNIX scripting, version control using Git, parallel computing, reference managers, text editors (Emacs)
 Marjan Drukker | Senior researcher, epidemiologist | Stata, networks (of psychological symptoms)
 Mathijs de Rijk | PhD student at Maastricht University | neuroimaging, Python, Matlab
+Aryo Zare | PhD student, Neuroscience | Programming paradigms, Numerical analysis software,  MATLAB, OCTAVE,  Time series analysis.
