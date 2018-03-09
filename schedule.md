@@ -10,13 +10,13 @@ Below is the schedule for upcoming and past meetings. Dates are given as year-mo
 
 Date | Topic | Location
 :--- | :---- | :-------
-2018-03-14 | More on Version Control | TBD
+2018-03-14 | More on Version Control | K4.403 at UNS50
 2018-03-28 | Reference Managers | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-04-11 | Data Visualization using Tableau | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-04-25 | Intro to LaTeX | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-05-09 | Jupyter | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-2018-05-23 | Command Line Interfaces | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-2018-06-06 | Remote Computing | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018-05-23 | Command Line Interfaces | TBD
+2018-06-06 | Remote Computing | K4.403 at UNS50
 2018-06-20 | Cloud Computing | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 
 ### Past Meetings
