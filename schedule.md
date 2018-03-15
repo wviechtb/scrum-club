@@ -27,7 +27,7 @@ Date | Topic | Location
 2017-12-13 | Continue with R | H1.319 (Paarse Zaal) at UNS50
 2018-01-17 | And even more R | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-01-31 | Last session on R (for now) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
-2018-02-14 | [Dask](https://dask.pydata.org/) (parallel computing library for Python) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018-02-14 | Dask (parallel computing library for Python) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-02-28 | Version Control (esp. Git/GitHub) | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-03-14 | More on Version Control | K4.403 at UNS50
 
