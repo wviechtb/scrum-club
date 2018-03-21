@@ -15,3 +15,4 @@ Date | Topic | Folder
 2018-01-31 | Last session on R (for now) | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-01-31)
 2018-02-14 | Dask (parallel computing library for Python) | [link](2018-02-14/dask-resources.md)
 2018-02-28 | Version Control (esp. Git/GitHub) | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-02-28)
+2018-03-14 | More on Version Control | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-03-14)
