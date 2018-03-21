@@ -18,7 +18,7 @@ Meetings take place roughly every two weeks on Wednesdays from 16:30 to 18:00. S
 
 ### Not Just an R User Group
 
-We debated whether to start an [R User Group](http://blog.revolutionanalytics.com/local-r-groups.html) in Maastricht (there are already several such groups in the Netherlands, but none in the South). However, we decided to make the purpose of the club more encompassing, as we want to explore other tools/software and topics as well (see the [list of topic ideas](topics.md)).
+We debated whether to start an [R User Group](http://blog.revolutionanalytics.com/local-r-groups.html) in Maastricht (there are already several such groups in the Netherlands, but none in the South). However, we decided to make the purpose of the club more encompassing, as we want to explore other tools/software and topics as well.
 
 ### A User-Driven Club
 
