@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2018-03-21: Article in the Observant
+
+An [article about the SCRUM club](https://www.observantonline.nl/English/Home/Articles/articleType/ArticleView/articleId/13523/SCRUM-Club-use-open-source-software-for-your-research) has appeared in the Observant.
+
 ### 2018-01-19: Institute of Data Science Announcement
 
 On behalf of the Institute of Data Science team, we extend the invitation to our **Symposium: The Future of a Data-Driven Society** next January 25th. The event will feature keynote lectures by inspiring leaders and competitions for world-changing visions and outstanding research proposals. For more details here is [the link for the event](https://www.maastrichtuniversity.nl/events/symposium-future-data-driven-society). And do not forget to follow us on [Twitter](https://twitter.com/UM_IDS) and [Facebook](https://www.facebook.com/IDSatUM/).
