@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2018-04-03: One-Day Workshop on Julia
+
+The name may be a bit strange, but [Julia](https://julialang.org/) is a relatively new (and hence modern!) programming language for statistical and numerical computing. It is extremely fast, usually outperforming languages like Python, R, and Matlab and in some cases even compiled languages like C and Fortran. On May 25th, 2018, a one-day workshop will be held at Maastricht University introducing Julia and its capabilities. The workshop will be completely free. More details on how to sign up will follow soon.
+
 ### 2018-03-21: Article in the Observant
 
 An [article about the SCRUM club](https://www.observantonline.nl/English/Home/Articles/articleType/ArticleView/articleId/13523/SCRUM-Club-use-open-source-software-for-your-research) has appeared in the Observant.
