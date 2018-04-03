@@ -10,7 +10,7 @@ The name may be a bit strange, but [Julia](https://julialang.org/) is a relative
 
 ### 2018-03-21: Article in the Observant
 
-An [article about the SCRUM club](https://www.observantonline.nl/English/Home/Articles/articleType/ArticleView/articleId/13523/SCRUM-Club-use-open-source-software-for-your-research) has appeared in the Observant.
+An [article about the SCRUM club](https://www.observantonline.nl/English/Home/Articles/articleType/ArticleView/articleId/13523/SCRUM-Club-use-open-source-software-for-your-research) has appeared in the Observant. You can also get a pdf of the article [here](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-03-22/scrum.pdf).
 
 ### 2018-01-19: Institute of Data Science Announcement
 
