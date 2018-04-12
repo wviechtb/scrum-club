@@ -6,20 +6,20 @@
 
 ### 2018-04-03: One-Day Workshop on Julia
 
-You may wonder who Julia is and why you would want a whole workshop about her. Well, the name may be a bit strange, but Julia is a relatively new (and hence modern!) programming language for statistical and numerical computing. It is extremely fast, usually outperforming languages like Python, R, and Matlab, and in some cases even compiled languages like C and Fortran. In addition, Julia is free, open-source, cross-platform (runs on Windows, macOS, and Linux), and has garnered the attention of a quickly growing and enthusiastic user community. For more information, see here: https://julialang.org/
+You may wonder who Julia is and why you would want a whole workshop about her. Well, the name may be a bit strange, but Julia is a relatively new (and hence modern!) programming language for statistical and numerical computing. It is extremely fast, usually outperforming languages like Python, R, and Matlab, and in some cases even compiled languages like C and Fortran. In addition, Julia is free, open-source, cross-platform (runs on Windows, macOS, and Linux), and has garnered the attention of a quickly growing and enthusiastic user community. For more information, see here: [https://julialang.org/](https://julialang.org/)
 
 On May 25th, 2018, a one-day workshop will be held at Maastricht University introducing Julia and its capabilities. The workshop is aimed at researchers, (Master and PhD level) students, data analysts/scientist, and essentially anybody interested in learning how to work with Julia.
 
-You should bring a laptop to the workshop with Julia installed. Installation files can be found here: https://julialang.org/downloads/
+You should bring a laptop to the workshop with Julia installed. Installation files can be found here: [https://julialang.org/downloads/](https://julialang.org/downloads/)
 
 The workshop is free, but you should still register if you plan to attend. To register, simply send an email to Jolanda Koch at: jolanda.koch@maastrichtuniversity.nl
 
 The short version:
 
-What: One-Day Workshop on Julia (https://julialang.org/)  
+What: One-Day Workshop on Julia ([https://julialang.org/](https://julialang.org/))  
 Date: May 25th, 2018  
 Time: 09:30 to 17:30  
-Room: Greepzaal at the azM (http://www.mumcplattegrond.nl/#map/d99_d26)  
+Room: Greepzaal at the azM ([http://www.mumcplattegrond.nl/#map/d99_d26](http://www.mumcplattegrond.nl/#map/d99_d26))  
 Register with: Jolanda Koch (jolanda.koch@maastrichtuniversity.nl)  
 
 Hope to see you at the workshop!
