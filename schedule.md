@@ -10,7 +10,7 @@ Below is the schedule for upcoming and past meetings. Dates are given as year-mo
 
 Date | Topic | Location
 :--- | :---- | :-------
-2018-06-20 | Cloud Computing | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
+2018-06-20 | JupyterLab | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
 2018-06-06 | Remote Computing | K4.403 at UNS50
 2018-05-23 | Command Line Interfaces | A0.731 at UNS40
 2018-05-09 | Intro to LaTeX | [Greepzaal at the AZM/MUMC+](http://www.mumcplattegrond.nl/#map/d99_d26)
