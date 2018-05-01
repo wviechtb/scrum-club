@@ -25,4 +25,4 @@ Dries Boers | Bioinformatician at MaCSBio, the Maastricht Centre for Systems Bio
 Marjan Drukker | Senior researcher, epidemiologist | Stata, networks (of psychological symptoms)
 Mathijs de Rijk | PhD student at Maastricht University | neuroimaging, Python, Matlab
 Aryo Zare | PhD student, Neuroscience | programming paradigms, numerical analysis software, Matlab, Octave, time series analysis
-Pedro Hernandez Serrano | Data Science Researcher | Reproducible Data Science Pipeline, Graph Knowledge Representation, Autonomous Agents, Data Visualization
+Pedro Hernandez Serrano | Data Science Researcher | reproducible data science pipeline, graph knowledge representation, autonomous agents, data visualization
