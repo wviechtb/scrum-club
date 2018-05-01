@@ -8,6 +8,7 @@ The materials for the upcoming meeting and all previous meetings are collected h
 
 Date | Topic | Folder
 :--- | :---- | :--------
+2018-04-25 | Documentary: Do You Trust This Computer | [link](https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F)
 2018-04-11 | Data Visualization using Tableau | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-04-11)
 2018-03-28 | Reference Managers | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-03-28)
 2018-03-14 | More on Version Control | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-03-14)
