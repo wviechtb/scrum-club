@@ -8,6 +8,7 @@ The materials for the upcoming meeting and all previous meetings are collected h
 
 Date | Topic | Folder
 :--- | :---- | :--------
+2018-05-09 | Intro to LaTeX | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-05-09)
 2018-04-25 | Documentary: Do You Trust This Computer | [link](https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F)
 2018-04-11 | Data Visualization using Tableau | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-04-11)
 2018-03-28 | Reference Managers | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-03-28)
@@ -19,3 +20,4 @@ Date | Topic | Folder
 2017-12-13 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-12-13)
 2017-11-29 | Continue with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-29)
 2017-11-15 | Introduction / Starting with R | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2017-11-15)
+
