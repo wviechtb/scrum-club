@@ -1,0 +1,149 @@
+
+% first thing, '%' is used for comments in LaTeX.
+
+% we need to start by stating the type of the document. In the square brackets
+% we specify the font size. In the curly brackets, we define the document
+% type. The most common document type is the article. However, it is possible
+% to specify a specific type within these curly brackets. We will see 
+% examples.
+\documentclass[12pt]{article}
+%\documentclass[article]{jss}
+%\documentclass[journal]{IEEEtran}
+
+% setting the margin widths.
+\usepackage[top=1.5in, bottom=1.5in, left=1.0in, right=1.0in]{geometry}
+
+% for mathematical expressions, especially for aligning.
+\usepackage{amsmath}
+
+% in order to insert plots.
+\usepackage{graphicx}
+
+% in order to give a links in the document.
+\usepackage{hyperref}
+%\usepackage[colorlinks=true,allcolors=red,bookmarks=true]{hyperref}
+% if you use a specific style, you may not be able to change the options of 
+% hyperref. For example, if you use jss style, you cannot change the 
+% options.
+
+% for citations we will use natbib package
+\usepackage[round]{natbib}
+% if you want to change the way the citations appear, you can specify them
+% in the options.
+%\usepackage[square,sort,numbers]{natbib}
+
+% some styles have specific commands such as \author and \title. However, in 
+% order to use these commands the style file should be in the working 
+% directory, and the style should be specified in the \documentclass.
+
+% these commands can be run with jss style. 
+%\author{Scrum Club Members}
+%\title{Introduction to Latex}
+%\Abstract{You can write your abstract here.}
+%\Keywords{Latex, open-source software}
+
+% here we start to write our document.
+\begin{document}
+
+% suppose you want to start by writing the author at the beginning.
+% we will write the author at the center. In order to do that we need to use
+% \begin{center} command. Be careful that every command that starts with 
+% \begin should be closed with \end{}.
+\begin{center}
+
+% suppose you also want to write the author in a larger font size. For this % you can use \begin{large}. For other font sizes see:
+% https://texblog.org/2012/08/29/changing-the-font-size-in-latex/
+\begin{Large}
+% and, I want to write in bold format. 
+\textbf{Introduction to LaTeX}
+\end{Large}
+
+\end{center}
+% the other options to write at two ends of the paper, check
+% \begin{flushleft} and \begin{flushright}
+
+This is an introduction session for Latex. It is possible to use special charaters such as \LaTeX. There are two ways to end a paragraph. First, you can use the return key. You need to leave a space between the paragraphs.
+
+The other way to do this is to use \textbackslash \textbackslash. However, there are two options here. If you don't leave a space before the next line the first line of the first paragraph will not be indented. \\
+If you want to indent the first line of the first paragraph, you need to leave a space before starting to write the next paragraph. \\
+
+Let's start to our first section. We need to use \textbackslash section command. One very nice feature of Latex is that you can label the sections in the document, and you can give links to these sections in the document. We use hyperref package for this. For example, Section \ref{mathExp} shows examples for mathematical expressions. \\
+
+\section{Mathematical Expressions} \label{mathExp}
+
+In order to use mathematical expressions we need to write them in between \$ signs. So, we need to use two \$ signs, and the mathematical expression will go in between these two \$ signs. For example, $E = mc^2$. If you want to write the mathematical expression in a seperate line, you need to cover the expression with two \$ signs at each end. 
+
+$$ f(x) = \frac{1}{2\sigma\sqrt{\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}} $$
+
+Be careful that we can use special characters in mathematical expressions. If you don't know how to use a special character you can use the ``Structure'' panel on the left in TeXmaker. For more special characters, see: \url{https://en.wikibooks.org/wiki/LaTeX/Special_Characters} \\
+
+It is also possible enumarate the expressions. For this you need to use \textbackslash begin\{equation\}. 
+
+\begin{equation}
+\int_a^b f'(x)dx = f(b) - f(a)
+\end{equation}
+
+As you can see, we use \_ for subscript and \^{} for superscript. When you need to put multiple characters into these, you need to put the expressions in curly brackets. 
+
+\begin{equation}
+F(x) = \sum_{i = 1}^x {n \choose i} p^i (1 - p)^{n - i}
+\end{equation}
+
+We can include mathematical expressions in multiple lines with \textbackslash begin\{align\}. Notice that, there is an $\ast$ in the curly brackets. This is for not enumarating the lines. 
+ 
+\begin{align*}
+\frac{(x - y)^2}{x + y} &= \frac{(x - y)(x + y)}{x + y} \\
+						&= x - y
+\end{align*}
+
+\section{Inserting Plots and Tables} \label{plotsTables}
+
+\subsection{Inserting Plots} \label{plots}
+
+Let's now insert a picture here. We need to use the \textbackslash begin\{figure\} and \textbackslash includegraphics.
+
+\begin{figure}[h] 
+% I also want to insert the image to the center of the page.
+\begin{center}
+\includegraphics[scale=0.5]{slayer.jpg}
+\caption{Why is God sarcastic?}
+\label{figSlayer}
+\end{center}
+\end{figure}
+% Also be careful that we need to close the commands in the inverse order. 
+% So, first command that is opened should be closed the last.
+
+We gave a label to the image. Now, we can refer to the image with \textbackslash ref\{\} such as this, \ref{figSlayer}.
+
+\newpage
+
+\subsection{Inserting Tables} \label{tables}
+
+Inserting tables is a little confusing. We need to specify the number of columns within \textbackslash begin\{tabular\}.
+
+\begin{table}[h]
+\caption{Original members of Slayer.}
+\label{tabSlayer}
+\begin{tabular}{lll}
+\textbf{Member}	& \textbf{Birth Year}	& \textbf{Instrument} \\
+Tom Araya 		& 1961					& Bass \& Vocals \\
+Jeff Hanneman	& 1964					& Guitars \\
+Kerry King 		& 1964					& Guitars \\
+Dave Lombardo	& 1965					& Drums 
+\end{tabular}
+\end{table}
+
+It is also possible to give reference to table, such as this Table \ref{tabSlayer}. 
+
+An easier way to create the tables is to use the Wizard from the upper menu in TexMaker. An even easier way to create tables is to use a webpage for this in the following link: \url{https://www.tablesgenerator.com/}.
+
+
+\section{Citing References} \label{references}
+
+Giving references in LaTeX is a little tricky, but it comes with nice advantages. To give references, we need a separate BibTeX file where we keep the records of our references. In this file, every reference has a label as we did for sections and graphics. Then, we cite these references by using \textbackslash citep\{\}. For example, I can cite a paper in my references easily here, \citep{brown1975}. If you want to cite in text, you need to use \textbackslash citet\{\}, as here \citet{tippett1931}. The only annoying thing happens when you compile the file. In order to see the references, you need to compile with PDFLaTeX once, then BibTeX once, and PDFLaTeX twice again from the upper menu. After following this sequence, when you click View PDF from the upper menu, you will see your citations on the panel right. 
+
+\bibliographystyle{plainnat}
+%\bibliographystyle{apalike}
+\bibliography{mybib}
+
+\end{document}
