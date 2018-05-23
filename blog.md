@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2018-05-23: Location for the Julia Workshop
+
+Originally, the plan was to hold the Julia workshop at the Greepzaal at the azM (see below). However, the room does not have proper tables to sit at and is therefore not ideal for a workshop where we are going to be working on our laptops all day long. I've therefore reserved a different room, here at my (Wolfgang's) department. It has proper tables and is therefore more suitable for such a workshop. Directions to the building can be found here: http://www.wvbauer.com/doku.php/courses_at_dept The room number is SN.2035.
+
 ### 2018-04-03: One-Day Workshop on Julia
 
 You may wonder who Julia is and why you would want a whole workshop about her. Well, the name may be a bit strange, but Julia is a relatively new (and hence modern!) programming language for statistical and numerical computing. It is extremely fast, usually outperforming languages like Python, R, and Matlab, and in some cases even compiled languages like C and Fortran. In addition, Julia is free, open-source, cross-platform (runs on Windows, macOS, and Linux), and has garnered the attention of a quickly growing and enthusiastic user community. For more information, see here: [https://julialang.org/](https://julialang.org/)
