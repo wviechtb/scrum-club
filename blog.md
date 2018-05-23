@@ -23,7 +23,7 @@ The short version:
 What: One-Day Workshop on Julia ([https://julialang.org/](https://julialang.org/))  
 Date: May 25th, 2018  
 Time: 09:30 to 17:30  
-Room: Greepzaal at the azM ([http://www.mumcplattegrond.nl/#map/d99_d26](http://www.mumcplattegrond.nl/#map/d99_d26))  
+Room: ~~Greepzaal at the azM ([http://www.mumcplattegrond.nl/#map/d99_d26](http://www.mumcplattegrond.nl/#map/d99_d26))~~  (see blog entry above)  
 Register with: Jolanda Koch (jolanda.koch@maastrichtuniversity.nl)  
 
 Hope to see you at the workshop!
