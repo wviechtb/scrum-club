@@ -1,3 +1,7 @@
+[Home](README.md) // [Blog](blog.md) // [Schedule](schedule.md) // [Topics](topics.md) // [Members](members.md) // [Materials](/materials/materials.md) // [Chat on Gitter](https://gitter.im/scrum-club/general)
+
+---
+
 ## Remote Computing
 
 Basically, remote computing means that we make use of a different computer than the one we are sitting in front of for carrying out our computations and analyses. This is especially useful when doing computationally intensive work, as it leaves the computer we are working with free to do other tasks. Also, the remote computer may be a much more powerful computer (faster CPU, more cores, more memory) and therefore may be able to complete the computations more quickly.
