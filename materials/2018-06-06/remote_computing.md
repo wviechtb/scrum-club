@@ -17,7 +17,7 @@ In the old days, connections were typically made via [telnet](https://en.wikiped
 
 ### Bash Shell
 
-On most Linux/Unix systems, you will get access to the (bash)[https://en.wikipedia.org/wiki/Bash_(Unix_shell)] (Unix) shell. Therefore, to make use of such computing facilities, you need to learn some basic bash commands (see previous meeting). Although possible, by default you cannot make use of software that uses a graphical user interface (GUI). The software you use for the computations (e.g., R, Python, Matlab) therefore also needs to be used via the command line.
+On most Linux/Unix systems, you will get access to the [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) (Unix) shell. Therefore, to make use of such computing facilities, you need to learn some basic bash commands (see previous meeting). Although possible, by default you cannot make use of software that uses a graphical user interface (GUI). The software you use for the computations (e.g., R, Python, Matlab) therefore also needs to be used via the command line.
 
 ### Editor
 
