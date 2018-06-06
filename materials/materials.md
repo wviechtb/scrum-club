@@ -8,6 +8,7 @@ The materials for the upcoming meeting and all previous meetings are collected h
 
 Date | Topic | Folder
 :--- | :---- | :--------
+2018-06-06 | Remote Computing | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-06-06)
 2018-05-23 | Linux Shell | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-05-23)
 2018-05-09 | Intro to LaTeX | [link](https://github.com/wviechtb/scrum-club/tree/master/materials/2018-05-09)
 2018-04-25 | Documentary: Do You Trust This Computer | [link](https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F)
