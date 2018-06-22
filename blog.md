@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2018-06-22: Summer Break
+
+Since the start of the club in November 2017, we've had a total of 15 meetings, covering a wide variety of topics, including R, a bit of Python, version control using Git, reference managers, the data visualization tool Tableau, LaTeX, command line interfaces, remote computing, and Jupyter. The SCRUM club will now go on a well-deserved summer break until September. We will pick things up again then.
+
 ### 2018-05-23: Location for the Julia Workshop
 
 Originally, the plan was to hold the Julia workshop at the Greepzaal at the azM (see below). However, the room does not have proper tables to sit at and is therefore not ideal for a workshop where we are going to be working on our laptops all day long. I've therefore reserved a different room, here at my (Wolfgang's) department. It has proper tables and is therefore more suitable for such a workshop. Directions to the building can be found here: [http://www.wvbauer.com/doku.php/courses_at_dept](http://www.wvbauer.com/doku.php/courses_at_dept) The room number is SN.2035.
