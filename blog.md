@@ -4,6 +4,10 @@
 
 ## Blog / Announcements
 
+### 2019-01-02: To Be Continued
+
+Unfortunately, due to other priorities, things did not pick up again after the summer break. So, the decision was made to end the SCRUM club in its current form and hence this repo will no longer be updated. At some point, a similar initiative will hopefully be started by [IDS](https://www.maastrichtuniversity.nl/research/institute-data-science). Keep an eye on their website in case you are interested.
+
 ### 2018-06-22: Summer Break
 
 Since the start of the club in November 2017, we've had a total of 15 meetings, covering a wide variety of topics, including R, a bit of Python, version control using Git, reference managers, the data visualization tool Tableau, LaTeX, command line interfaces, remote computing, and Jupyter. The SCRUM club will now go on a well-deserved summer break until September. We will pick things up again then.
